@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#1E1E2E</color>
+    <color name="bg_on">#10241A</color>
+    <color name="accent_green">#2ECC71</color>
+    <color name="gray_off">#6C7086</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_dim">#B0B4C0</color>
+</resources>
